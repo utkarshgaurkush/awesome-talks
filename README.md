@@ -23,7 +23,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** [52:43]
 * [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** [23:07]
 * [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM) by **Paolo Perrotta** [36:35]
-* [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]    ~~**1_RUN**~~  
+* [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** [1:10:14]    ~~**1_RUN_BASE_BUILDING**~~  
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** [43:46]
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]
 * [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** [01:02:52]
@@ -58,7 +58,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by **Robert C. Martin** [1:06:39]
 * [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** [58:48]
 * [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** [45:20]
-* [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** [54:43]               ~~**1_RUN**~~
+* [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** [54:43]  ~~**1_RUN_BASE_BUILDING**~~
 * [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** [54:40]
 * [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** [1:11:09]
 * [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** [54:40]
